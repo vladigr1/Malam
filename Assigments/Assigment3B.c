@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-
+//best switch ever
 #define N 100
 
 

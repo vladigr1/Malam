@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <conio.h>
 #include <string.h>
 
@@ -217,6 +217,3 @@ void extraWordsFIX (char Fstring[], char Fstringdest[])
 	strcpy (Fstringdest, Fstring);
 	return;
 }
-
-
-*/
