@@ -1,4 +1,4 @@
-/*#include <stdio.h>	
+#include <stdio.h>	
 #include <conio.h>
 
 
@@ -52,4 +52,4 @@ void sortThree(int *fnum1, int *fnum2, int *fnum3)
 	sortTwo(fnum2, fnum3);
 	sortTwo(fnum1,fnum2);
 	
-}*/
+}

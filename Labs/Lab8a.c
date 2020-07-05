@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-/*void inputPoint(float *x, float *y);
+void inputPoint(float *x, float *y);
 void inputSeg(float *x1, float *y1, float *x2, float *y2);
 void setMidSeg(float x1, float y1, float x2, float y2, float *px, float *py); //declaration functions
 
@@ -32,4 +32,4 @@ void setMidSeg(float x1, float y1, float x2, float y2, float *px, float *py) //g
 {
 	*px = (x1 + x2) / 2;
 	*py = (y1 + y2) / 2;
-}*/
+}

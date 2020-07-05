@@ -1,6 +1,5 @@
  #include <stdio.h>
 #include <conio.h>
-/*
 #define N 10
 
 void revArr(int array1[], int size1, int array2[], int size2); // declartion 
@@ -39,5 +38,4 @@ void revArr(int array1[], int size1, int array2[], int size2)
 		array2[i] = revNum(array1[i]);
 		
 	}
-	
-	*/
+}

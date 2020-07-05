@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <conio.h>
+
 #define N 4
 #define M 3 //defines
-/*
+
 void printMatrix(int A[][M], int cols, int rows);
 void addMatrices(int A[][M], int B[][M], int C[][M], int cols, int rows);
 
@@ -44,4 +45,4 @@ void addMatrices(int A[][M], int B[][M], int C[][M], int cols, int rows) //add
 			C[i][j] = A[i][j] + B[i][j]; //adding each other
 		}
 	}
-}*/
+}

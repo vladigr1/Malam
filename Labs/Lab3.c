@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <conio.h>
 
 int main()
@@ -18,4 +18,4 @@ int main()
 	printf("%2c%4d%4x%4o", ch, ch, ch, ch);//priting results
 	getch();
 	return 0;
-}*/
+}

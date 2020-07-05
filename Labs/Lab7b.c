@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <conio.h>
 
 #define N 10
@@ -30,4 +30,4 @@ double avg(double array[], int size) // define function that caclucates the aver
 		sum += array[i];
 	return sum / size;
 	
-} */
+}

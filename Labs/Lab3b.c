@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
-/*
+
 int main()
 {
 	double x, result;//define varibles
@@ -11,4 +11,4 @@ int main()
 	printf("x+(1/3x^4+2x^(1/2))^(1/5) = %g+(1/3*%g^4+2*%g^(1/2))^(1/5) = %.4f", x, x, x, result);// printing result
 	getch();
 	return 0;
-}*/
+}

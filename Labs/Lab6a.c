@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #define NUM 7
 int main()
 {
@@ -25,5 +25,3 @@ int main()
 	printf(" \n%d %d %d ", temp, num2, num3);
 	return 0;
 }
-
-*/

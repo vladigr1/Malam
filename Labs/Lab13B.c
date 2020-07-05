@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 #include <conio.h>
 #include <math.h>
 
@@ -52,4 +52,3 @@ int SizeOfUsignedInt(unsigned int num) // calculating unsigned digits
 	for (i = 0; i < 6; ++i)// int unsigned has no more then 5 digits 
 		if (10 * pow(10, i) > num) return i + 1;
 }
-*/

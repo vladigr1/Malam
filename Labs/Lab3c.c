@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
-/*
+
 int main()
 {
 	double x, a, b; //creating varibles
@@ -12,4 +12,3 @@ int main()
 	getch();
 	return 0;
 } 
-*/

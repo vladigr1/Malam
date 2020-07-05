@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-/*
+
 void func(char ch, int num); //declaring
 
 int main()
@@ -26,4 +26,4 @@ void func(char ch, int num)  //func definition
 		}
 		printf("\n"); //jumping to new raws
 	}
-}*/
+}

@@ -1,8 +1,9 @@
 #include  <stdio.h>
 #include <conio.h>
-/*
+
 #define R 5
 #define C 5
+
 void GetTwoDimensionalArry(int FTDarray[][C], int Row, int column);
 void PrintTwoDimensionalArry(int FTDarray[][C], int Row, int column);
 int IsSumRow(int FTDarray[][C], int column);
@@ -69,4 +70,4 @@ void PrintTwoDimensionalArry(int FTDarray[][C], int Row, int column)// declaring
 			printf(" %3d", FTDarray[r][c]);
 		printf("\n");
 	}
-}*/
+}

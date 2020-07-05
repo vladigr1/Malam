@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <conio.h>
-/*
+
 int main()
 {
 	int sequence, digit1, digit2, digit3, digit4;
@@ -32,4 +32,4 @@ int main()
 	}
 	getch();
 	return 0;
-}*/
+}

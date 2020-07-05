@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <conio.h>
-/*
+
 int main() 
 {
 	int  weight, height, resultBMI; //creating variables
@@ -19,5 +19,4 @@ int main()
 	return 0;  
 	
 }
-*/
 
